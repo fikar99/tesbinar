@@ -11,7 +11,8 @@ Kode yang baik adalah kode yang bisa dibaca dan
     - untuk upload gambar dapat menggunakan gem 'carrierwave-base64', setalah itu 'bundle install'
 #    b) Uji Coba API
     - create user
-    https://user-images.githubusercontent.com/37108348/39662921-d378018a-5093-11e8-8bfc-ef0cd7eaf3e4.png
+    ![image](https://user-images.githubusercontent.com/37108348/39662990-1b3744c6-5095-11e8-81f1-5eb13627807d.png)
+
 
     
 

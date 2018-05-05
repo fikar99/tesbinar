@@ -17,4 +17,17 @@ Kode yang baik adalah kode yang bisa dibaca dan
    ![image](https://user-images.githubusercontent.com/37108348/39662921-d378018a-5093-11e8-8bfc-ef0cd7eaf3e4.png)
 
 ## CRUD V1 
-    - 
+    - show data
+   ![image](https://user-images.githubusercontent.com/37108348/39663308-1d08bef0-509b-11e8-88ed-07ff62865d12.png)
+    
+    - show data by id
+   ![image](https://user-images.githubusercontent.com/37108348/39663326-6c7de28a-509b-11e8-9669-b788a7202941.png)
+    
+    - create data
+   ![image](https://user-images.githubusercontent.com/37108348/39663340-a95e8a6a-509b-11e8-889e-7182d989f504.png)
+    
+    - update data
+   ![image](https://user-images.githubusercontent.com/37108348/39663350-d456a7a2-509b-11e8-97e5-59f4843a39a6.png)
+
+    - delete data by id
+   ![image](https://user-images.githubusercontent.com/37108348/39663356-fb058788-509b-11e8-8bf8-559db40173f0.png)

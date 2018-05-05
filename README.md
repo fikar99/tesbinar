@@ -10,6 +10,11 @@ Kode yang baik adalah kode yang bisa dibaca dan
     - untuk melakukan pengamanan pada password, dapat menggunakan gem 'bcrypt', '~> 3.1.7'
     - untuk upload gambar dapat menggunakan gem 'carrierwave-base64', setalah itu 'bundle install'
 #    b) Uji Coba API
-    - create user
+##  Authentication 
+    - Login
     
+    - create user
+   ![image](https://user-images.githubusercontent.com/37108348/39662921-d378018a-5093-11e8-8bfc-ef0cd7eaf3e4.png)
 
+## CRUD V1 
+    - 

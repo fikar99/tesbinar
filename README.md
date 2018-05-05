@@ -1,7 +1,13 @@
 
 # README
+# Answer No 1
+## Alasan memilih desain seperti ini adalah :
+Karna lebih jelas tahapan nya, mulai dari server/backend, kemudian framework, bahasa pmograman, tools dan database ap yg digunakan. Hingga menghasilkan ebuah API  yang nantinya akan dpat di olah oleh user/client
 
-# tesbinar2
+![stack and microservice backend](https://user-images.githubusercontent.com/37108348/39668294-fa5c7f32-50f3-11e8-9613-3891db2f6413.png)
+
+
+# Answer No 3
 
 Sertakan panduan cara instalasi tools, pengaturan database, penggunaan kode dan cara ujicoba kode dalam file Readme.md
 

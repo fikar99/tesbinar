@@ -2,9 +2,13 @@
 # README
 # Answer No 1
 ## Alasan memilih desain seperti ini adalah :
-Karna lebih jelas tahapan nya, mulai dari server/backend, kemudian framework, bahasa pmograman, tools dan database ap yg digunakan. Hingga menghasilkan sebuah API  yang nantinya akan dpat di olah oleh user/client di mobile apps
+Karna lebih jelas tahapan nya, mulai dari server/backend, kemudian framework, bahasa pmograman, tools dan database apa yang digunakan. Hingga menghasilkan sebuah API  yang nantinya akan dpat diolah oleh user/client di mobile apps
 
 ![stack and microservice backend](https://user-images.githubusercontent.com/37108348/39668294-fa5c7f32-50f3-11e8-9613-3891db2f6413.png)
+
+
+# Answer No 2
+untuk menangani keamanan dalam pengiriman data yaitu dengan menggunakan authentication, dengan menginstall salah satu dari gem 'jwt', 'cancancan', 'knock' dan lain2.
 
 
 # Answer No 3
@@ -16,18 +20,18 @@ Sertakan tangkapan layar proses ujicoba API menggunakan postman.
 Kode yang baik adalah kode yang bisa dibaca dan 
 
 
-# 3. a) Tools yang digunakan  
+## 3. a) Tools yang digunakan  
     - untuk menentukan pemisah rute pengerjaan, gunakan versionist. Yaitu dengan cara menginstal gem 'versionist' di file Gemfile.
     - untuk melakukan pengamanan pada password, dapat menggunakan gem 'bcrypt', '~> 3.1.7'
     - untuk upload gambar dapat menggunakan gem 'carrierwave-base64', setalah itu 'bundle install'
-#    b) Uji Coba API
-##  Authentication 
+##    b) Uji Coba API
+### Authentication 
     - Login
     
     - create user
    ![image](https://user-images.githubusercontent.com/37108348/39662921-d378018a-5093-11e8-8bfc-ef0cd7eaf3e4.png)
 
-## CRUD V1 
+### CRUD V1 
     - show data
    ![image](https://user-images.githubusercontent.com/37108348/39663308-1d08bef0-509b-11e8-88ed-07ff62865d12.png)
     

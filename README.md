@@ -2,7 +2,7 @@
 # README
 # Answer No 1
 ## Alasan memilih desain seperti ini adalah :
-Karna lebih jelas tahapan nya, mulai dari server/backend, kemudian framework, bahasa pmograman, tools dan database ap yg digunakan. Hingga menghasilkan ebuah API  yang nantinya akan dpat di olah oleh user/client
+Karna lebih jelas tahapan nya, mulai dari server/backend, kemudian framework, bahasa pmograman, tools dan database ap yg digunakan. Hingga menghasilkan sebuah API  yang nantinya akan dpat di olah oleh user/client di mobile apps
 
 ![stack and microservice backend](https://user-images.githubusercontent.com/37108348/39668294-fa5c7f32-50f3-11e8-9613-3891db2f6413.png)
 

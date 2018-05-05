@@ -14,7 +14,7 @@ class V1::UsersController < ApplicationController
         end
     end  
         private
-        
+        # def
     def user_params
           params.permit(:name, :email, :password)
     end

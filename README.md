@@ -54,12 +54,12 @@ Kode yang baik adalah kode yang bisa dibaca dan
 # Answer No 4
  Desian API yang kurang maupun keliru :
  - untuk price jika type datanya integer, tidak perlu tanda kutip dua kecuali memang type datanya string
- sebelumnya :   "price": "2180" || seharusnya :   "price": 2180
+    --> sebelumnya :   "price": "2180" || seharusnya :   "price": 2180
  ![image](https://user-images.githubusercontent.com/37108348/39669033-815139d6-510a-11e8-9ec1-2bdf4af50dde.png)
  
  - untuk update, id yg mau di update adalah id 4, tetapi outputnya menghasilkan id 9 dan output nama product tidak sesuai dengan yg di input
- sebelumnya :     "id": 9 || seharusnya =     "id": 4
- sebelumnya :      "name": "polygon xtrada Z8" || seharusnya =      "name": "polygon xtrada Z6"
+    --> sebelumnya :     "id": 9 || seharusnya =     "id": 4
+    --> sebelumnya :      "name": "polygon xtrada Z8" || seharusnya =      "name": "polygon xtrada Z6"
  
  ![image](https://user-images.githubusercontent.com/37108348/39669049-e0e0c72c-510a-11e8-93fb-09b766339ccb.png)
  ![image](https://user-images.githubusercontent.com/37108348/39669064-3bc1da3c-510b-11e8-8bc0-03244d2201d6.png)

@@ -47,6 +47,10 @@ Kode yang baik adalah kode yang bisa dibaca dan
     - delete data by id
    ![image](https://user-images.githubusercontent.com/37108348/39663356-fb058788-509b-11e8-8bf8-559db40173f0.png)
 
+### Testing API V2 
+    - show data
+   ![image](https://user-images.githubusercontent.com/37108348/39669206-688f8f6a-510f-11e8-85ee-a01eef52e3a4.png)
+
 # Answer No 4
  Desian API yang kurang maupun keliru :
  - untuk price jika type datanya integer, tidak perlu tanda kutip dua kecuali memang type datanya string
